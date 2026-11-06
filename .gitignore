@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data - do not upload Kaggle competition files
+/data/
+
+# Local environment and editor files
+.env
+.vscode/
+.DS_Store
+Thumbs.db
