@@ -1,0 +1,21 @@
+[project]
+name = "kaggle-titanic"
+version = "1.1.0"
+description = "Kaggle Titanic: scikit-learn pipeline, model comparison and submission."
+readme = "README.md"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+extend-exclude = ["notebooks"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/conftest.py" = ["E501"]
