@@ -106,6 +106,6 @@ Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter, pytest, Ruff 
 ## Author
 
 **Cauê Buzolin** — Analysis and Systems Development student at Fatec Taquaritinga.
-[GitHub](https://github.com/caueeeb) · [LinkedIn](https://www.linkedin.com/in/cau%C3%AA-buzolin-76a4283b3/) · [Hugging Face](https://huggingface.co/caueeb)
+[GitHub](https://github.com/caueeeb) · [LinkedIn](https://www.linkedin.com/in/caue-buzolin/) · [Hugging Face](https://huggingface.co/caueeb)
 
 Released under the [MIT License](LICENSE). Kaggle competition data is subject to the competition rules.
